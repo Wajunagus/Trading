@@ -1,0 +1,2 @@
+# TTJ
+The Trading Journal
