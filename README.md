@@ -1,2 +1,2 @@
-# TTJ
-The Trading Journal
+# Trading
+Trading
