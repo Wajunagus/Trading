@@ -1,1 +1,1 @@
-This folder contains trading management materials.
+This folder contains trading management materials for Traders Mastermind(TMM).
