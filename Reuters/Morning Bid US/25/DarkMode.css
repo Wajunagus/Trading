@@ -5,18 +5,7 @@ a {
     font-weight: bold;
 }
 body {
-    /*background-color: #222222;*/
     background-color: black;
-}
-.date {
-    margin-bottom: 20px;
-    text-align: right;
-}
-.date > span {
-    /*padding: 5px 10px;*/
-    padding: 2.5px;
-    color: black;
-    background-color: azure;
 }
 .emp { /*Emphasis*/
     color: #5D8736; /*https://colorhunt.co/palette/5d8736809d3ca9c46cf4ffc3*/
@@ -25,22 +14,8 @@ footer {
     margin: auto;
     padding: 5px 10px;
     color: darkgray;
-    /*width: 100%;*/
-    /*border-radius: 10px;*/
     text-align: center;
 }
-/*
-footer p {
-    margin: 5px 0;
-}
-.ft-hlt {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 5px 5px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-*/
 .fsi {
     font-style: italic;
     color: whitesmoke;
@@ -65,44 +40,17 @@ h5 {
 h6 {
     font-size: 12pt;
 }
-/*
-.hlt {
-    margin: 5px 0;
-    padding: 5px 10px;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-.s-hlt {
-    color: black;
-    background-color: azure;
-    padding: 0 5px;
-}
-*/
 header {
-    /*
-    margin-left: auto;
-    margin-right: auto;
-    */
     margin: auto;
-    /*margin-top: 10px;*/
-    /*margin-bottom: 10px;*/
     padding: 5px 10px;
-    /*width: 100%;*/
     text-align: center;
-    /*background-color: #222222;*/
-    /*border-radius: 10px;*/
-    /*line-height: 80%;*/
 }
 header hr {
     border: 1px dotted;
 }
 header img {
-    /*
-    margin-left: auto;
-    margin-right: auto;
-    */
     margin: auto;
-    width: 40%;
+    width: 25%;
 }
 /*
 header p {
@@ -161,10 +109,6 @@ img {
 .key {
     color: rgb(106, 154, 176);
 }
-.lh70 {
-    line-height: 70%;
-    padding: 1px 0;
-}
 main {
     margin: auto;
     padding: 5px 10px;
@@ -188,34 +132,4 @@ main > ul {
 strong {
     font-weight: normal;
     color: darkkhaki;
-}
-ul.cust {
-    list-style: none;
-    padding: 10px 20px;
-    border-left: 3px solid red;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-ul.cust li {
-    margin: 5px 0;
-    padding: 0 20px;
-    position: relative;
-}
-ul.cust li::before {
-    content: "\2713"; /*Unicode for (✓)*/
-    position: absolute;
-    top: -1px;
-    left: 1px;
-    color: #4CAF50;
-    font-size: 12pt;
-}
-ul.non { /*none*/
-    list-style-type: none;
-    padding: 10px;
-    border-left: 3px solid red;
-    background-color: rgb(31, 45, 65);
-    width: fit-content;
-}
-ul.non li {
-    margin: 5px 0;
 }
