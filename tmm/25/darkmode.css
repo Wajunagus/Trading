@@ -165,6 +165,9 @@ img {
     line-height: 70%;
     padding: 1px 0;
 }
+.lh {
+    color: rgb(49, 48, 48);
+}
 main {
     margin: auto;
     padding: 5px 10px;
