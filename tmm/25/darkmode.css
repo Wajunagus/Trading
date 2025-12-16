@@ -166,7 +166,9 @@ img {
     padding: 1px 0;
 }
 .lh {
-    background-color: rgb(49, 48, 48);
+    background-color: rgb(24, 24, 24);
+    width: fit-content;
+    padding: 5px;
 }
 main {
     margin: auto;
